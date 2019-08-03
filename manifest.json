@@ -1,0 +1,21 @@
+{
+  "id": "1323141",
+  "name": "Artboard Generator",
+  "version": "0.0.1",
+  "description": "Description of your plugin.",
+  "summary": "Summary of your plugin",
+  "languages": ["en"],
+  "author": "Your Name",
+  "helpUrl": "https://mywebsite.com/help",
+  "host": {
+    "app": "XD",
+    "minVersion": "18.0"
+  },
+  "uiEntryPoints": [
+    {
+      "type": "panel",
+      "label": "Artboard Generator",
+      "panelId": "artboardGenerator"
+    }
+  ]
+}
